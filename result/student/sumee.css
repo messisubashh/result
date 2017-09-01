@@ -1,0 +1,109 @@
+
+.services{
+	background: red;
+	opacity: 0.5;
+	width: 400px;
+	height: 400px;
+	position: relative;
+	top: -40px;
+	color: white;
+}
+.subash5{
+	background: white;
+	opacity: 0.5;
+	width: 400px;
+	height: 400px;
+	position: relative;
+	color: black;
+}
+.services1{
+	background: green;
+	opacity: 0.5;
+	width: 400px;
+	height: 400px;
+	position: relative;
+	top: -40px;
+}
+.services2{
+	background: yellow;
+	opacity: 0.5;
+	width: 400px;
+	height: 400px;
+	position: relative;
+	top: -40px;
+}
+
+	
+
+.foot{
+	background-color: black;
+	opacity: 1;
+
+
+}
+@media(min-width: @screen-sm-min)
+{
+	.banner img
+	{
+		width: 10px;
+		height: 10px;
+	}
+}
+address{
+	text-shadow: 5px 5px 5px #fff000;
+}
+#login{
+	margin:auto auto;
+}
+.input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+ background-color: white;
+    color: black;
+}
+
+.services9{
+	background:red;
+	width: 100%;
+	height:75px;
+	position: relative;
+	color: white;
+	float:left;
+}
+#imgright
+{
+	float:right;
+	position:relative;
+	top:-65px;
+	right:10px;
+}
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+ background-color: white;
+    color: black;
+}
+
+.ram{
+	
+	text-align:center;
+	text-decoration:none;
+	
+}
+.ram p{
+	font-size:100px;
+	color:green;
+	float:center;
+	
+}
+.ram a{
+	text-decoration:none;
+}
